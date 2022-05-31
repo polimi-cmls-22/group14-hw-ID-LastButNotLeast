@@ -9,7 +9,7 @@ Group 14 repository for the ID homework of CMLS 2022
 - 10885119 - Mattia Massimi
 
 ## The Idea
-![](./LBNL-PF.png) 
+![](./Images/lbnpfGUI.png) 
 
 **LBNL-PhotoFlute** is a JUCE-made plugin effect which creates and modifies sound based on the generation of fractals. The user can choose between many different types of fractal sets which will behave differently and will generate different sound combinations.
 
