@@ -21,7 +21,7 @@ By placing your fingers on the various photoresistors and a peculiar sensor you 
 
 ## Folder Structure
     Juce
-    └── Resources
+    ├── Resources
     │   └── flute1.png
     │   └── logo.png
     └── Source
