@@ -17,6 +17,8 @@ Group 14 repository for the ID homework of CMLS 2022
 ![](./Images/photo-flute.jpg)
 By placing your fingers on the various photoresistors and a peculiar sensor you can play notes on a GUI-customizable software instrument.
 
+**LET'S TRY IT!**
+
 ## Folder Structure
     Juce
     └── Resources
