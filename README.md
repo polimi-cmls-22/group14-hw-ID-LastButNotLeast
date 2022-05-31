@@ -18,6 +18,21 @@ Group 14 repository for the ID homework of CMLS 2022
 By placing your fingers on the various photoresistors and a peculiar sensor you can play notes on a GUI-customizable software instrument.
 
 ## Folder Structure
-![](./Images/FileExplorer.png)
+    Juce
+    └── Resources
+        └── flute1.png
+        └── logo.png
+    └── Source
+        └── Main.cpp
+        └── MainComponent.h
+        └── MainComponent.cpp
+
+    Supercollider
+    └── fluteNewFINAL.scd
+
+    Arduino
+    └── flute2.ino 
+
 
 ## Troubleshooting
+It is suggested to start the GUI on Juce **before** the server and code on Supercollider.
