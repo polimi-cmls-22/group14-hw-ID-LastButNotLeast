@@ -11,12 +11,11 @@ Group 14 repository for the ID homework of CMLS 2022
 ## The Idea
 ![](./Images/lbnspfGUI.png) 
 
-**LBNL-PhotoFlute** is a JUCE-made plugin effect which creates and modifies sound based on the generation of fractals. The user can choose between many different types of fractal sets which will behave differently and will generate different sound combinations.
+**LBNL-PhotoFlute** is a JUCE + Supercollider + Arduino made application which let's you control a fully functioning flute controlled with photoresistors.
 
 ## How it Works
-![](./Images/HowItWork.png)
-
-Here is how the program works:
+![](./Images/photo-flute.jpg)
+By placing your fingers on the various photoresistors and a peculiar sensor you can play notes on a GUI-customizable software instrument.
 
 ## Folder Structure
 ![](./Images/FileExplorer.png)
